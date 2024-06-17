@@ -1,0 +1,10 @@
+http://example.com/content/index.html
+http://example.com/2019/01/27/Home/
+http://example.com/2019/01/27/Basic/test/
+http://example.com/about/index.html
+http://example.com/tags/index.html
+http://example.com/
+http://example.com/tags/intro/
+http://example.com/tags/test/
+http://example.com/categories/intro/
+http://example.com/categories/Test/
