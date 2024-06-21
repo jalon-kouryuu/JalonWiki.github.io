@@ -2,27 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/content/index.html</loc>
+    <loc>http://example.com/doc/essay/index.html</loc>
     
-    <lastmod>2024-06-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2019/01/27/Home/</loc>
-    
-    <lastmod>2024-06-17</lastmod>
+    <lastmod>2024-06-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/2019/01/27/Basic/test/</loc>
+    <loc>http://example.com/doc/tech/index.html</loc>
     
-    <lastmod>2024-06-17</lastmod>
+    <lastmod>2024-06-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/doc/index.html</loc>
+    
+    <lastmod>2024-06-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/index.html</loc>
+    
+    <lastmod>2024-06-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -30,6 +39,15 @@
   
   <url>
     <loc>http://example.com/about/index.html</loc>
+    
+    <lastmod>2024-06-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2019/01/27/Home/</loc>
     
     <lastmod>2024-06-17</lastmod>
     
@@ -46,10 +64,19 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>http://example.com/2023/10/25/git-intro/</loc>
+    
+    <lastmod>2023-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2024-06-17</lastmod>
+    <lastmod>2024-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -57,14 +84,14 @@
   
   <url>
     <loc>http://example.com/tags/intro/</loc>
-    <lastmod>2024-06-17</lastmod>
+    <lastmod>2024-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/test/</loc>
-    <lastmod>2024-06-17</lastmod>
+    <loc>http://example.com/tags/git/</loc>
+    <lastmod>2024-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -73,14 +100,14 @@
   
   <url>
     <loc>http://example.com/categories/intro/</loc>
-    <lastmod>2024-06-17</lastmod>
+    <lastmod>2024-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/Test/</loc>
-    <lastmod>2024-06-17</lastmod>
+    <loc>http://example.com/categories/tech/</loc>
+    <lastmod>2024-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
